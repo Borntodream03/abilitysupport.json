@@ -1,0 +1,13 @@
+{
+  "tropicraft.Entity.EntityMarlin": [
+    "swim"
+  ],
+  "justafewfish.Entity.EntityFishPufferfish": [
+    "swim"
+  ],
+  "am2.bosses.EntityEarthGuardian": [
+    "hostile"
+  ],
+  "am2.bosses.EntityFireGuardian": [
+    "fireImmunity",
+    "hostile"
